@@ -1,8 +1,8 @@
 cask "healthyvibe" do
-  version "1.0.1"
-  sha256 "980b36b80a8ad6ce518532dd2def1dcde50b89284965cb01ded176a62defe12a"
+  version "1.0.2"
+  sha256 "824df7d216ef637fea2696f6371a4e7312afd0bf3c1a01e919ab5b00ffacd31d"
 
-  url "https://github.com/xfey/HealthyVibe/releases/download/v1.0.1/HealthyVibe-1.0.1.zip"
+  url "https://github.com/xfey/HealthyVibe/releases/download/v1.0.2/HealthyVibe-1.0.2.zip"
   name "HealthyVibe"
   desc "Menu bar health breaks for AI coding waits"
   homepage "https://github.com/xfey/HealthyVibe"
