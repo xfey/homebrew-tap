@@ -1,6 +1,6 @@
 cask "healthyvibe" do
   version "1.0.0"
-  sha256 "ca71ac0b9793c11e3f9999b48dcd0d5f7067a5c68dc5e09e5fff304c78b558cd"
+  sha256 "81a86f2c9197f89ff47115aeaf0fbdf8d57d35c428d06654be9d231f4edb54cd"
 
   url "https://github.com/xfey/HealthyVibe/releases/download/v1.0.0/HealthyVibe-1.0.0.zip"
   name "HealthyVibe"
